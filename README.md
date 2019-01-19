@@ -1,0 +1,1 @@
+功能：React Native 和原生UI的交互。
